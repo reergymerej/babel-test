@@ -1,7 +1,7 @@
 {
   "name": "babel-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "```bash npm install ```",
   "main": "index.js",
   "scripts": {
     "test": "mocha ./lib/test"
@@ -31,5 +31,13 @@
       "./node_modules/react-addons-test-utils",
       "./node_modules/fbjs"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reergymerej/babel-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/reergymerej/babel-test/issues"
+  },
+  "homepage": "https://github.com/reergymerej/babel-test#readme"
 }
